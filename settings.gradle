@@ -1,0 +1,4 @@
+rootProject.name = 'rocksdb-java-test'
+include 'rocksdb-service'
+include 'rocksdb-api'
+
